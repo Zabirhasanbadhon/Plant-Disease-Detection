@@ -22,22 +22,6 @@ A deep learning project that detects plant leaf diseases using Convolutional Neu
 - Pillow
 - Jupyter Notebook
 
-## 📂 Project Structure
-
-```text
-Plant-Leaf-Disease-Detection-CNN/
-│
-├── Model_Training.ipynb
-├── app.py
-├── plantdiseasemodel.h5
-├── README.md
-├── Dataset/
-│   ├── Train/
-│   ├── Test/
-│   └── Validation/
-└── requirements.txt
-```
-
 ## 📊 Model Information
 
 - Model: Convolutional Neural Network (CNN)
